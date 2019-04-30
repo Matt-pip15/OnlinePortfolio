@@ -1,0 +1,47 @@
+E:\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe
+E:\Yahtzee\Yahtzee\bin\Release\Yahtzee.pdb
+E:\Yahtzee\Yahtzee\bin\Release\Yahtzee.xml
+E:\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.Form1.resources
+E:\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.Resources.resources
+E:\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.vbproj.GenerateResource.Cache
+E:\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.exe
+E:\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.xml
+E:\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\bin\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\bin\Release\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.Form1.resources
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.Resources.resources
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Release\Yahtzee.vbproj.GenerateResource.Cache
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.Form1.resources
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.Resources.resources
+C:\Users\mpipitone17\Desktop\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.vbproj.GenerateResource.Cache
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.Form1.resources
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.Resources.resources
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.vbproj.GenerateResource.Cache
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Progarming files\Personal\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.xml
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.vbprojResolveAssemblyReference.cache
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.Form1.resources
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.Resources.resources
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.vbproj.GenerateResource.Cache
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.vbproj.CoreCompileInputs.cache
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.exe
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.xml
+F:\Personal\Yahtzee v2\Yahtzee\obj\x86\Release\Yahtzee.pdb
+F:\Personal\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.exe
+F:\Personal\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.pdb
+F:\Personal\Yahtzee v2\Yahtzee\bin\Release\Yahtzee.xml

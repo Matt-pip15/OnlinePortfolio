@@ -1,0 +1,56 @@
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+D:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Form1.resources
+D:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Resources.resources
+D:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.vbproj.GenerateResource.Cache
+D:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+D:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.xml
+D:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+E:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+E:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.xml
+E:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+E:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+E:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Form1.resources
+E:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Resources.resources
+E:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.vbproj.GenerateResource.Cache
+G:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+G:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.xml
+G:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+G:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+G:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+G:\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+G:\Yahtzee\Yahtzee\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Form1.resources
+G:\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Resources.resources
+G:\Yahtzee\Yahtzee\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Yahtzee\Yahtzee\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.xml
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Form1.resources
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Resources.resources
+C:\Users\Matt P\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.vbproj.GenerateResource.Cache
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.xml
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Form1.resources
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Resources.resources
+C:\Users\Matt P\Desktop\Programing Files\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.vbproj.GenerateResource.Cache
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Form1.resources
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.Resources.resources
+C:\Users\mpipitone17\Desktop\Yahtzee\Yahtzee\obj\x86\Debug\Yahtzee.vbproj.GenerateResource.Cache
