@@ -1,5 +1,23 @@
-import os
-import time
+import time, os, random
+
+class Taunts:
+    taunts = ["I am completely customizable", "No one can stop you from winning but yourself...",
+                   "It would be a shame if you lost.", "Who ever one good job!"]
+    def __init__(self):
+        random.seed()
+
+    def addTaunt(self):
+        check = False
+        while not check:
+            try:
+                self.taunts.append(input("Enter a taunt to add: "))
+                check = True
+            except ValueError:
+                print("You entered an integer! Please send in a string")
+        print("Taunt added!")
+
+    def printRandomTaunt(self):
+        print(self.taunts[random.randrange(len(self.taunts)-1)])
 
 def printConnect():  # prints in rows
     for row in connect4:
@@ -420,7 +438,7 @@ p2 = 2  # Marker for Player 2
 playerCurrent = p1  # current players turn
 gameP1 = False  # Player1 Win
 gameP2 = False  # Player2 Win
-
+tClass = Taunts()
 player1 = {
     "name" : "Player 1",
     "wins" : 0,
@@ -444,6 +462,7 @@ check = False
 player1['name'] = "Player 1"
 player2['name'] = "Player 2"
 testCode = []
+cTaunts = Taunts()
 while not done:                                                                 # game loop
     connect4 = reset()                                                          # resets board
     print("Welcome to connect 4:  \n")                                          # welcomes player
@@ -453,6 +472,8 @@ while not done:                                                                 
         answer = int(answer)
         if answer == 1:                                                                 # starts game
                 testCode.clear()
+                player1["set"].clear()
+                player2["set"].clear()
                 os.system('cls')                                                        # clears screen
                 playerCurrent = p1                                                     # sets player current to player 1
                 game = True                                                             # game loop value
@@ -496,6 +517,8 @@ while not done:                                                                 
 
                     playerCurrent = playerSwitch(playerCurrent)  # switches player
         elif answer == 2:                                                               # New in v2.0 Standard
+                player1["set"].clear()
+                player2["set"].clear()
                 os.system('cls')                                                        # clears screen
                 playerCurrent = p1                                                      # sets player  to player 1
                 isSet = False                                                            # set loop value
@@ -664,6 +687,7 @@ while not done:                                                                 
 
 
     except ValueError:
+        answer.lower()
         if answer == "names":
             player1['name'] = input("Enter player 1's name:    ")
             player2['name'] = input("Enter player 2's name:    ")
@@ -671,17 +695,20 @@ while not done:                                                                 
                 player1['name'] = "Player 1"
             if player2['name'] == "":
                 player2['name'] = "Player 2"
-        if answer == "Blades":
-            print("")
+        if answer == "blades":
+            print("Stab is Col & Poke is row")
         if answer == "stats":
             print(player1['name'] + ": \n Wins: " + str(player1['wins']) + "\n Losses: " + str(player1['losses']))
             print(player2['name'] + ": \n Wins: " + str(player2['wins']) + "\n Losses: " + str(player2['losses']))
             print()
-        if answer == "LO" or answer == "lo":
+        if answer == "lo":
             print("Player 1: " + str(player1['set']))
             print('\n')
             print("Player 2: " + str(player2['set']))
             print('\n')
-
+        if answer == "taunt":
+            cTaunts.printRandomTaunt()
+        if answer == "taunt+":
+            cTaunts.addTaunt()
 
 
