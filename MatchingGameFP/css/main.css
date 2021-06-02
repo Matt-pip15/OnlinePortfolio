@@ -1,0 +1,90 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 1em;
+    text-align: center;
+    color: #360;
+}
+
+section {
+    min-width: 900px;
+    font-family: Courier
+}
+
+article h1, div;{
+    width: 50em;
+    display: inline;
+}
+
+button {
+    width: 210px;
+    height: 210px;
+    margin: 1em;
+    padding: 0;
+}
+
+section {
+    background-color: antiquewhite;
+
+}
+
+header {
+    color: slategray;
+    background-color: lightgoldenrodyellow;
+    border: 10px dotted silver;
+    margin-bottom: 20px;
+}
+.panels div {
+    background-color: #630;
+    background-position: 50% 50%;
+    padding: 25px;
+    height: 100px;
+    margin: 1em;
+    display: inline-block;
+    width: 100px;
+}
+
+.panels {
+    width: 500px;
+    margin: 0 auto;
+    display: inline;
+}
+
+
+button {
+    width: 50px;
+    height: 20px;
+}
+.fourOfSpade { 
+    background-image: url(/MatchingGameFP/img/4OfSpades.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ace { 
+    background-image: url(/MatchingGameFP/img/ace.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.king { 
+    background-image: url(/MatchingGameFP/img/King.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.queenOfSpade { 
+    background-image: url(/MatchingGameFP/img/QueenofSpades.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.joker { 
+    background-image: url(/MatchingGameFP/img/joker.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sixOfSpade {
+    background-image: url(/MatchingGameFP/img/SixOfSpades.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* Changed path for images because I saw an error that my browser could not find them. There were spaces in the Queen card file name. Pictures did show up after the changes. Only addition I would consider is if the cards do not match that they turn over automatically instead of having to click on another panel. Good game.*/
